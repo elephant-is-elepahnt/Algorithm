@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[48]:
-
-
 def SelectionSort(x):
     last = len(x)-1
     for n in range(last, 1, -1):
