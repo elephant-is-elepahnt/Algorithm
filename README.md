@@ -5,3 +5,4 @@
 ## 1. Chapter04 - sort
 ## 2. Chapter05 - select
 ## 3. Chapter06 - tree
+## 4. Chapter07 - hash table
